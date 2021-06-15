@@ -7,6 +7,3 @@
 [submodule "libressl"]
 	path = libressl
 	url = https://github.com/libressl-portable/portable.git
-[submodule "cpp-httplib"]
-	path = cpp-httplib
-	url = https://github.com/keko950/cpp-httplib.git
