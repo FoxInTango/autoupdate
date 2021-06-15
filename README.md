@@ -1,10 +1,10 @@
 # make & install libressl
 # make & install lievent
 # make & install libhttps
-# make & install javascript-https-module 
+# make & install javascript-https-module
 # make & install AUListener    -- 对外监听
 # make & install AUImplementer -- 内部执行
-# make & install AUBooter      --systemd.service
+# make & install AUBooter      -- autoupdate.service
 # autoupdate
 
 autoupdate distributed web service system with git
