@@ -1,6 +1,6 @@
 [submodule "libhttps"]
 	path = libhttps
-	url = https://github.com:FoxInTango/libhttps.git
+	url = https://github.com/FoxInTango/libhttps.git
 [submodule "libevent"]
 	path = libevent
 	url = https://github.com/libevent/libevent.git
